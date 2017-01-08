@@ -1,0 +1,22 @@
+c:\users\asus\documents\visual studio 2013\Projects\Bassify\Bassify\bin\Debug\Bassify.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Bassify\Bassify\obj\Debug\Bassify.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\Bassify\Bassify\obj\Debug\Bassify.tabInputForm.resources
+c:\users\asus\documents\visual studio 2013\Projects\Bassify\Bassify\obj\Debug\Bassify.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\Bassify\Bassify\obj\Debug\Bassify.tabViewingForm.resources
+c:\users\asus\documents\visual studio 2013\Projects\Bassify\Bassify\obj\Debug\Bassify.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\Bassify\Bassify\bin\Debug\Bassify.exe
+c:\users\asus\documents\visual studio 2013\Projects\Bassify\Bassify\bin\Debug\Bassify.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Bassify\Bassify\obj\Debug\Bassify.exe
+c:\users\asus\documents\visual studio 2013\Projects\Bassify\Bassify\obj\Debug\Bassify.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Bassify\Bassify\obj\Debug\Bassify.ErrorMessageBox.resources
+C:\Users\Fraser\Desktop\Bassify\Bassify\bin\Debug\Bassify.exe.config
+C:\Users\Fraser\Desktop\Bassify\Bassify\bin\Debug\Bassify.exe
+C:\Users\Fraser\Desktop\Bassify\Bassify\bin\Debug\Bassify.pdb
+C:\Users\Fraser\Desktop\Bassify\Bassify\obj\Debug\Bassify.csprojResolveAssemblyReference.cache
+C:\Users\Fraser\Desktop\Bassify\Bassify\obj\Debug\Bassify.ErrorMessageBox.resources
+C:\Users\Fraser\Desktop\Bassify\Bassify\obj\Debug\Bassify.TabInputForm.resources
+C:\Users\Fraser\Desktop\Bassify\Bassify\obj\Debug\Bassify.Properties.Resources.resources
+C:\Users\Fraser\Desktop\Bassify\Bassify\obj\Debug\Bassify.TabViewingForm.resources
+C:\Users\Fraser\Desktop\Bassify\Bassify\obj\Debug\Bassify.csproj.GenerateResource.Cache
+C:\Users\Fraser\Desktop\Bassify\Bassify\obj\Debug\Bassify.exe
+C:\Users\Fraser\Desktop\Bassify\Bassify\obj\Debug\Bassify.pdb
